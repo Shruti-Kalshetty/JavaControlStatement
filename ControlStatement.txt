@@ -1,0 +1,8 @@
+Summary of Control Statements:
+for loop: Executes a block of code a specific number of times.
+while loop: Executes as long as a condition is true.
+do-while loop: Similar to while, but guarantees at least one execution.
+break: Exits a loop or switch statement early.
+continue: Skips the current iteration and moves to the next iteration.
+switch: Selects one of many code blocks based on the value of a variable.
+return: Exits a method and optionally returns a value.
